@@ -15,7 +15,7 @@
 This is a repository for peripheral and Module drivers for AVR Atmega32 that implemented by Osama Moussa.
 
 
-MCAL:
+MCAL: Microcontroller Abstraction Layer
   - ADC   : Analog to digital converter 
   - DIO   : Digital input/output 
   - EXT   : External interrupt 
@@ -25,4 +25,13 @@ MCAL:
   - TMR0  : Timer 0
   - TMR1  : Timer 1
   - USART : Universal synchronous/asynchronous receiver/transmitter
+
+HAL: Hardware Abstraction Layer
+  - BTN    : Push button
+  - BZR    : Buzzer
+  - KPD    : Keypad
+  - LCD    : LCD screen
+  - LED    : Led lights
+  - SEVSEG : Seven segment display
+  - SSD    : Seven segment display
 
