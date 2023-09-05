@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Moussa</h1>
-<h3 align="center">A passionate embedded developer from egypt</h3>
+<h3 align="center">A passionate Embedded developer from Egypt</h3>
 
 - 📫 How to reach me **osama.yassin.moussa@gmail.com**
 
